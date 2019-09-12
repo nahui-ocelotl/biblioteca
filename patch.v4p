@@ -1,6 +1,6 @@
 <!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45beta28.1.dtd" >
   <PATCH>
-  <BOUNDS type="Window" width="20145" height="19815">
+  <BOUNDS type="Window" width="19650" height="19815">
   </BOUNDS>
   <NODE id="20" nodename="Renderer (EX9)" systemname="Renderer (EX9)" componentmode="Hidden">
   <BOUNDS type="Node" left="4005" top="18315" width="100" height="100">
@@ -309,7 +309,7 @@
   <NODE id="45" nodename="IOBox (Value Advanced)" systemname="IOBox (Value Advanced)" componentmode="InABox">
   <BOUNDS type="Box" left="1170" top="675" width="405" height="0">
   </BOUNDS>
-  <PIN pinname="Y Input Value" visible="1" values="|-0.10999999999999992|">
+  <PIN pinname="Y Input Value" visible="1" values="|0.05000000000000007|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -755,13 +755,13 @@
   </PIN>
   </NODE>
   <NODE id="100" nodename="Cons (String)" systemname="Cons (String)" componentmode="Hidden">
-  <BOUNDS type="Node" left="5310" top="10815" width="100" height="100">
+  <BOUNDS type="Node" left="5265" top="10830" width="100" height="100">
   </BOUNDS>
-  <PIN pinname="Input 1" visible="1" values="|campa1.jpg|">
+  <PIN pinname="Input 1" visible="1" values="|biblioteca1a.jpg|">
   </PIN>
-  <PIN pinname="Input 2" visible="1" values="|campa1.jpg|">
+  <PIN pinname="Input 2" visible="1" values="|biblioteca1c.jpg|">
   </PIN>
-  <PIN pinname="Input 3" visible="1" values="|campa1.jpg|">
+  <PIN pinname="Input 3" visible="1" values="|biblioteca1c.jpg|">
   </PIN>
   <PIN pinname="Input 4" visible="1" values="|campa1.jpg|">
   </PIN>
